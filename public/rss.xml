@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title></title>
+        <link>https://CSUwangj.github.io/Joke</link>
+        <description></description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://CSUwangj.github.io/Joke/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 22 Sep 2022 02:46:35 +0800</lastBuildDate>
+        <item>
+            <title>Switzerland flag</title>
+            <pubDate>Thu, 22 Sep 2022 02:46:35 +0800</pubDate>
+            <link>https://CSUwangj.github.io/Joke/switzerland-flag/</link>
+            <guid>https://CSUwangj.github.io/Joke/switzerland-flag/</guid>
+            <description>&lt;h1 id=&quot;what-s-the-best-thing-about-switzerland&quot;&gt;What’s the best thing about Switzerland?&lt;&#x2F;h1&gt;
+&lt;p&gt;I don’t know, but the flag is a big plus.&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>

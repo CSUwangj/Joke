@@ -1,5 +1,6 @@
 +++
 title = "Switzerland flag"
+date = 2022-09-22 02:46:35+08:00
 
 [taxonomies]
 tags = [ "switzerland", "country",]
